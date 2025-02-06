@@ -2,9 +2,7 @@
 
 Perkenalkan nama saya **Agum Pratama**.<br>
 
-Saya seorang mahasiswa yang sedang belajar di [Dicoding](https://www.dicoding.com/).<br>
-
-Saya sedang mengikuti kegiatan Bangkit 2024 di Kampus Merdeka.<br>
+Saya seorang mahasiswa yang sedang belajar di [Universitas Kuningan](https://https://uniku.ac.id/).<br>
 
 Saya juga sedang belajar tentang pemrograman Android.<br>
 
