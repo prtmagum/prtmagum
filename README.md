@@ -1,4 +1,4 @@
-<h1 align="center">Halo, saya Agum Pratama 👋</h1> <p align="center"> Mahasiswa <a href="https://uniku.ac.id/">Universitas Kuningan</a> · Sedang belajar <b>Android Development</b> </p>
+<h1 align="center">Halo, saya Agum Pratama 👋</h1> <p align="center"> Seorang <a href="https://uniku.ac.id/">Developer</a> · yang berfokus pada <b>pengembangan Aplikasi Mobile dan Website</b> </p>
 <p align="center"> <a href="https://www.linkedin.com/in/agum-p-229014111/"> <img src="https://img.shields.io/badge/LinkedIn-Agum%20Pratama-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="https://github.com/prtmagum"> <img src="https://img.shields.io/github/followers/prtmagum?label=Followers&style=for-the-badge&logo=github&color=181717" alt="GitHub followers"/> </a> <img src="https://komarev.com/ghpvc/?username=prtmagum&style=for-the-badge&color=3DDC84&label=Profile+Views" alt="Profile views"/> </p>
 
 🙋 Tentang Saya
