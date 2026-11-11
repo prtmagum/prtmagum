@@ -21,6 +21,7 @@
 - 📱 Mengembangkan aplikasi mobile dengan **Flutter** dan **Android native** yang fungsional dan mudah digunakan
 - 🐍 Menggunakan **Python** untuk backend, scripting, dan otomasi
 - 🌐 Membangun website yang responsif, cepat, dan rapi
+- ⚡ Mengoptimalkan alur kerja pengembangan dengan **AI-assisted engineering & modern CLI**
 - 🌱 Terus belajar teknologi baru dan mengasahnya lewat project nyata
 - 🤝 Terbuka untuk kolaborasi dan proyek — sapa saya di [LinkedIn](https://www.linkedin.com/in/agum-p-229014111/)!
 
@@ -44,18 +45,16 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=light" alt="Tools"/>
 </p>
 
+**AI & Workflow**
+
+<p>
+  <img src="https://img.shields.io/badge/Gemini-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini"/>
+  <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code"/>
+  <img src="https://img.shields.io/badge/Antigravity-181717?style=for-the-badge&logo=gnubash&logoColor=white" alt="Antigravity"/>
+</p>
+
 ### 📊 Statistik GitHub
 
 <p align="left">
   <a href="https://github.com/prtmagum">
     <img height="170em" src="https://github-readme-stats.vercel.app/api?username=prtmagum&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" alt="GitHub stats"/>
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prtmagum&layout=compact&theme=algolia&hide_border=true&langs_count=8&size_weight=0.5&count_weight=0.5" alt="Bahasa yang paling sering dipakai"/>
-  </a>
-</p>
-
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=prtmagum&theme=algolia&hide_border=true" alt="GitHub streak"/>
-</p>
-
----
-<p align="center"><i>Terima kasih sudah berkunjung! ✨</i></p>
