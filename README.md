@@ -57,4 +57,14 @@
 
 <p align="left">
   <a href="https://github.com/prtmagum">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=prtmagum&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" alt="GitHub stats"/>
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=prtmagum&show_icons=true&theme=algolia&hide_border=true" alt="GitHub stats"/>
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prtmagum&layout=compact&theme=algolia&hide_border=true&langs_count=8" alt="Bahasa yang paling sering dipakai"/>
+  </a>
+</p>
+
+<p align="left">
+  <img height="165" src="https://streak-stats.demolab.com?user=prtmagum&theme=algolia&hide_border=true" alt="GitHub streak"/>
+</p>
+
+---
+<p align="center"><i>Terima kasih sudah berkunjung! ✨</i></p>
